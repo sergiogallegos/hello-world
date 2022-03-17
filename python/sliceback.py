@@ -1,12 +1,12 @@
-#Notas
-print("NewProgram")
-
+# Notes
 letters = "abcdefghijklmnopqrstuvwxyz"
-backwards = letters[::-1]
+print(letters)
+
+backwards = letters[-10:13:-1]
 print(backwards)
 
-print("hellosergio")
+back2 = letters[-22::-1]
+print(back2)
 
-
-minombre = "SergioGallegos"
-print(minombre)
+back3 = letters[:17:-1]
+print(back3)

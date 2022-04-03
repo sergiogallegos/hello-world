@@ -14,4 +14,7 @@ Git Status, konw actual status
   1.git status
 
 Git Clone, Repo
-  1.git clone
+  1.git clone https://github.com/chaconinc/DbConnector " clone repo
+
+Git Submodule
+  1.git submodule add https://github.com/chaconinc/DbConnector  " add @ repo

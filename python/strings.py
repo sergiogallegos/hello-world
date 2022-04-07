@@ -21,6 +21,8 @@ print(f"Pi is aproxximately {pi:12.50f}")
 
 print("sergio")
 
+days="Mon, Tue, Wed, Thu, Fri, Sat, Sun"
+print(days[::5])
 
 
 

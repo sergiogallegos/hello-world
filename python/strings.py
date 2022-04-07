@@ -18,3 +18,9 @@ print(type(age))
 print(f"Pi is aproxximately {22/7:12.50f}")
 pi = 22/7
 print(f"Pi is aproxximately {pi:12.50f}")
+
+print("sergio")
+
+
+
+

@@ -18,5 +18,6 @@ sergiogallegos.net
 1. HelloSergio!
 1. testing IJ Ide from Windwos10.
 1. i3.
+1. 12/2022
 
 -  Lameravena.
